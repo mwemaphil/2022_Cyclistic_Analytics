@@ -8,4 +8,4 @@
 
 * Data was compiled from 12 differenr months. that is from Jan 2022 to Dec 2022 and merged into one using pandas for easier assessmnet and analysis. Initial assessment, both visually and programmatic were done and some issues were found after which some clean-up was done using pandas to acquire a clean dataset for visualization.
 
-* Simple visualaztion was done to answer some basuc questions but the cleaned data was exported to Tableu where finer visualization was done.
+* Simple visualaztion was done to answer some basic questions but the cleaned data was exported to Tableu where finer visualization was done.
