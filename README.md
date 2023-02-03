@@ -6,7 +6,7 @@
 * The purpose of this analysis is comparing how causal members and annual paying subscribers differ.
 * Data of the last 12 months was downloaded from [Cyclistic’s historical trip data](https://divvy-tripdata.s3.amazonaws.com/index.html), for the last 12 months, that is from January 2022 to December 2022.
 
-* Data was compiled from 12 differenr months. that is from Jan 2022 to Dec 2022 and merged into one using pandas for easier assessmnet and analysis. Initial assessment, both visually and programmatic were done and some issues were found after which some clean-up was done using pandas to acquire a clean dataset for visualization.
+* Data was compiled from 12 different months, that is from Jan 2022 to Dec 2022 and merged into one using pandas for easier assessmnet and analysis. Initial assessment, both visually and programmatic were done and some issues were found after which some clean-up was done using pandas to acquire a clean dataset for visualization.
 
 * Simple visualaztion was done to answer some basic questions but the cleaned data was exported to Tableu where finer visualization was done.
 ![Cyclistic_2022_Tableau_Analysis](https://user-images.githubusercontent.com/45120853/214843912-79131807-d0f5-451d-9fd3-130dedc964f2.png)
